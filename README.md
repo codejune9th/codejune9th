@@ -1,3 +1,4 @@
+# 👋 Hello! I am Joon
 ### About Me
 
 - 💻 Full Stack Software Engineer with interest in learning more about backend
